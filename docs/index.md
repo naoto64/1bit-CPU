@@ -4,17 +4,52 @@
 4個のロジックICを使用した1bit CPUの組み立てキットです。
 
 ## スペック
-|項目|スペック|
-|---|---|
-|汎用レジスタ|1bit x 1|
-|アドレス空間|1bit|
-|ROM容量|4bit|
-|命令セット|ADD, JMP|
-|プログラムカウンタ|1bit|
-|フラグレジスタ|未実装|
-|算術演算|1bitの加算（XOR）|
-|クロック周波数|約1Hz|
-|IC総数|4個|
+<table>
+  <thead>
+    <tr>
+      <th>項目</th>
+      <th>スペック</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>汎用レジスタ</td>
+        <td>1bit x 1</td>
+    </tr>
+    <tr>
+        <td>アドレス空間</td>
+        <td>1bit</td>
+    </tr>
+    <tr>
+        <td>ROM容量</td>
+        <td>4bit</td>
+    </tr>
+    <tr>
+        <td>命令セット</td>
+        <td>ADD, JMP</td>
+    </tr>
+    <tr>
+        <td>プログラムカウンタ</td>
+        <td>1bit</td>
+    </tr>
+    <tr>
+        <td>フラグレジスタ</td>
+        <td>未実装</td>
+    </tr>
+    <tr>
+        <td>算術演算</td>
+        <td>1bitの加算（XOR）</td>
+    </tr>
+    <tr>
+        <td>クロック周波数</td>
+        <td>約1Hz</td>
+    </tr>
+    <tr>
+        <td>IC総数</td>
+        <td>4個</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 命令セット
 |命令|機械語|説明|

@@ -27,6 +27,10 @@ DIPスイッチは上側がONです。プログラムで赤色LEDの点灯動作
     </tr>
     <tr>
         <td>アドレス空間</td>
+        <td>2bit</td>
+    </tr>
+    <tr>
+        <td>アドレスバス幅</td>
         <td>1bit</td>
     </tr>
     <tr>

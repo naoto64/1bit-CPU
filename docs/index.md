@@ -130,4 +130,4 @@ ON　OFF　ON　OFF
 [![実装図](./img/implementation-diagram.jpg)](./img/implementation-diagram.jpg)
 
 ## 実装例
-[![実装例](./img/implementation-example.jpg)](./img/implementation-diagram.jpg)
+[![実装例](./img/implementation-example.jpg)](./img/implementation-example.jpg)

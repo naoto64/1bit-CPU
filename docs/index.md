@@ -124,10 +124,10 @@ ON　OFF　ON　OFF
 ```
 
 ## 回路図
-![回路図](./img/schematic.jpg)
+[![回路図](./img/schematic.jpg)](./img/schematic.jpg)
 
 ## 実装図
-![実装図](./img/implementation-diagram.jpg)
+[![実装図](./img/implementation-diagram.jpg)](./img/implementation-diagram.jpg)
 
 ## 実装例
-![実装例](./img/implementation-example.jpg)
+[![実装例](./img/implementation-example.jpg)](./img/implementation-diagram.jpg)

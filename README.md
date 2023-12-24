@@ -12,13 +12,13 @@ You can make a CPU using the 74HC series logic IC.
 Left switch: Controls MUX to choose whether to update Reg A or PC
 Right switch: Controls second XOR operand or sets destination PC address
 
-'''
+```
 LR
 00: MUX=0, RA=RA^0=RA,  PC=!PC
 01: MUX=0, RA=RA^1=!RA, PC=!PC
 10: MUX=1, RA=RA,       PC=0
 11: MUX=1, RA=RA,       PC=1
-'''
+```
 
 In regular words:  
 OFF, OFF will preserve the value of A and advance PC (0->1, 1->0)  

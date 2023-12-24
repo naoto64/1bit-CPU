@@ -9,7 +9,7 @@ You can make a CPU using the 74HC series logic IC.
 ![1bit-cpu.jpg](./docs/img/schematic.jpg)
 
 ## Description
-Left switch: Controls MUX to choose whether to update Reg A or PC
+Left switch: Controls MUX to choose whether to update Reg A or PC  
 Right switch: Controls second XOR operand or sets destination PC address
 
 ```

@@ -18,15 +18,11 @@ LR
 10: MUX=1, RA=RA,       PC=0
 11: MUX=1, RA=RA,       PC=1
 
-In regular words:
-
-OFF, OFF will preserve the value of A and advance PC (0->1, 1->0)
-
-OFF, ON will invert the value of A (0->1, 1->0) and advance PC (0->1, 1->0)
-
-ON, OFF will preserve the value of A and set PC to 0
-
-ON, ON will preserve the value of A and set PC to 1
+In regular words:  
+OFF, OFF will preserve the value of A and advance PC (0->1, 1->0)  
+OFF, ON will invert the value of A (0->1, 1->0) and advance PC (0->1, 1->0)  
+ON, OFF will preserve the value of A and set PC to 0  
+ON, ON will preserve the value of A and set PC to 1  
 
 ## Video
 [![1bit-CPU](https://img.youtube.com/vi/7_g6IDrb5PI/0.jpg)](https://www.youtube.com/watch?v=7_g6IDrb5PI)

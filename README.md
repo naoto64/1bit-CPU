@@ -26,6 +26,7 @@ OFF, ON will invert the value of A (0->1, 1->0) and advance PC (0->1, 1->0)
 ON, OFF will preserve the value of A and set PC to 0  
 ON, ON will preserve the value of A and set PC to 1  
 
+```
 01 23 | Function | Looped C equivalent | Description
 ----------------------------------------------------------------------------
 00 00 | NOP, NOP | void; void;         | Do nothing
@@ -44,7 +45,7 @@ ON, ON will preserve the value of A and set PC to 1
 11 01 | NOP, INV | void; a=!a;         | Half frequency blink
 11 10 | NOP, NOP | void; void;         | Do nothing
 11 11 | NOP, HLT | void; while(1);     | Halt forever
-
+```
 
 ## Video
 [![1bit-CPU](https://img.youtube.com/vi/7_g6IDrb5PI/0.jpg)](https://www.youtube.com/watch?v=7_g6IDrb5PI)

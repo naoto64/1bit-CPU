@@ -11,6 +11,10 @@
 この製品は以下のサイトから購入できます。  
 [スイッチサイエンス - 1bit CPU 組み立てキット](https://www.switch-science.com/products/9376 "1bit CPU 組み立てキット")
 
+#### お問い合わせフォーム
+[製品に関するお問い合わせ](https://forms.gle/Fn5E3byABXJ8P5sbA)
+
+
 ## 使用方法
 ROM書き込みはDIPスイッチを切り替えることで可能です。
 
